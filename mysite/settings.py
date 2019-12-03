@@ -1,4 +1,4 @@
-import django_heroku
+# import django_heroku
 import dj_database_url
 import os
 
