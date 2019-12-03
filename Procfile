@@ -1,1 +1,1 @@
-web: gunicorn dement0.wsgi
+web: gunicorn djangogirls.wsgi --log-file -
